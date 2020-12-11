@@ -4,11 +4,7 @@ description: 将域名CNAME到github后遇到的一些情况记录下
 
 # CNAME记录遇到的问题及解析生效时间
 
-## CNAME记录遇到的问题及解析生效时间
-
-将域名CNAME到github后遇到的一些情况记录下
-
-## 遇到的问题
+#### 遇到的问题
 
 在faceroc.com域名注册商"1API 官方DNS后台"设置CNAME至 faceroc.github.io时报错。  
  共设置了2条:

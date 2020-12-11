@@ -4,7 +4,11 @@ description: 将域名CNAME到github后遇到的一些情况记录下
 
 # CNAME记录遇到的问题及解析生效时间
 
-#### 遇到的问题
+## CNAME记录遇到的问题及解析生效时间
+
+将域名CNAME到github后遇到的一些情况记录下
+
+## 遇到的问题
 
 在faceroc.com域名注册商"1API 官方DNS后台"设置CNAME至 faceroc.github.io时报错。  
  共设置了2条:
@@ -78,6 +82,4 @@ DNSPod has upgraded to Tencent Cloud account. To ensure that you can use the ser
  不过悲剧的是，在阿里云设置2小时后，还是无法正常用自己的域名访问，这个CNAME解析时间比A记录要慢很多呀。
 
 update:20小时后，CNAME解析终于生效。
-
-update:创建gitbook后用了一个新的子域名note.faceroc.com，CNAME记录：hosting.gitbook.io，大概1小时后解析即生效。
 

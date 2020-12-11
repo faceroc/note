@@ -1,4 +1,12 @@
+---
+description: 此文收录自腾讯 云+社区
+---
+
 # dig 命令洞察 DNS 解析过程
+
+> 此文摘录自腾讯 云+社区，仅供本人方便学习阅读，当私人笔记用途，如需转载商业用途请联系原作者
+>
+> 原文链接：[https://cloud.tencent.com/developer/article/1366027](https://cloud.tencent.com/developer/article/1366027)
 
 在[上一篇](https://cloud.tencent.com/developer/article/1365761?from=10680)文章，我们介绍了域名解析的过程，本章我们将介绍一个实用的工具---dig命令，通过dig命令我们可以查看 DNS 解析的过程，以便我们更好的理解 DNS 解析过程。
 

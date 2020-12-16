@@ -4,7 +4,7 @@ description: 将域名CNAME到github后遇到的一些情况记录下
 
 # CNAME记录遇到的问题及解析生效时间
 
-#### 遇到的问题
+## 遇到的问题
 
 在faceroc.com域名注册商"1API 官方DNS后台"设置CNAME至 faceroc.github.io时报错。  
  共设置了2条:
@@ -28,7 +28,9 @@ description: 将域名CNAME到github后遇到的一些情况记录下
  b.dnspod.com  
  c.dnspod.com
 
-## DNSPOD后台自带腾讯云的DNS生效检测功能，点击后结果如下
+## 生效情况
+
+DNSPOD后台自带腾讯云的DNS生效检测功能，点击后结果如下
 
 ```text
  ; <<>> DiG 9.9.4-RedHat-9.9.4-29.el7_2.2 <<>> faceroc.com
@@ -51,20 +53,20 @@ description: 将域名CNAME到github后遇到的一些情况记录下
 
 后台提示该域名解析正常。
 
-看了一篇文章[dig 命令洞察 DNS 解析过程](wang-luo-shou-ji-cun-dang/dig-ming-ling-dong-cha-dns-jie-xi-guo-cheng.md)，对比发现ANSWER SECTION返回的faceroc.github.io对应的A记录值是127.0.0.1，说明解析未生效，那只能等。
+看了一篇文章[dig 命令洞察 DNS 解析过程](https://cloud.tencent.com/developer/article/1366027)，对比发现ANSWER SECTION返回的faceroc.github.io对应的A记录值是127.0.0.1，说明解析未生效，那只能等。
 
-## ~~打开网站还是跳转到原来阿里云服务器上的BT面板提示页：~~
+~~打开网站还是跳转到原来阿里云服务器上的BT面板提示页：~~
 
-### ~~没有找到站点~~
+~~没有找到站点~~
 
 ~~您的请求在Web服务器中没有找到对应的站点！~~
 
-### ~~可能原因：~~
+~~可能原因：~~
 
 ~~您没有将此域名或IP绑定到对应站点!  
  配置文件未生效!~~
 
-### ~~如何解决：~~
+~~如何解决：~~
 
 ~~检查是否已经绑定到对应站点，若确认已绑定，请尝试重载Web服务；  
  检查端口是否正确；  

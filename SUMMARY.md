@@ -1,7 +1,9 @@
 # Table of contents
 
 * [FaceRoc's Notes](README.md)
-* [MAC常用软件清单](mac-app-list.md)
+* [MAC常用软件清单 2020/12/13](mac-app-list.md)
+* [谈谈电脑硬盘加密 2020-12-17](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)
+* [Windows To Go安装Win10在MACBOOK PRO上使用  2020-04-20](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)
 * [CNAME记录遇到的问题及解析生效时间](cname-ji-lu-yu-dao-de-wen-ti-ji-jie-xi-sheng-xiao-shi-jian.md)
 * [Gitbook使用中遇到的问题\(需求\)及解决方案 ---持续更新](gitbook-shi-yong-zhong-yu-dao-de-wen-ti-xu-qiu-ji-jie-jue-fang-an.md)
 

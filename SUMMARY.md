@@ -3,6 +3,8 @@
 * [FaceRoc's Notes](README.md)
 * [Github搭建Blog的记录 2020-12-16](github-da-jian-blog-de-ji-lu.md)
 * [MAC常用软件清单 2020-12-13](mac-app-list.md)
+* [Win10常用软件清单 2020-12-17](win10-chang-yong-ruan-jian-qing-dan-20201217.md)
+* [软件收集狂的断舍离 2020-12-17](ruan-jian-shou-ji-kuang-de-duan-she-li-20201217.md)
 * [谈谈电脑硬盘加密 2020-12-17](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)
 * [Windows To Go安装Win10  2020-04-20](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)
 * [CNAME记录遇到的问题及解析生效时间](cname-ji-lu-yu-dao-de-wen-ti-ji-jie-xi-sheng-xiao-shi-jian.md)

@@ -21,14 +21,12 @@ description: 将域名CNAME到github后遇到的一些情况记录下
 遂在dnspod.com后台配置好CNAME。  
 大约30分钟后还是未生效？用后台工具查一下。
 
-## DNS地址检测
+## DNS生效检测
 
 该域名更新的DNS地址没有超过72小时, 请耐心等待（最多等待58小时）  
  a.dnspod.com  
  b.dnspod.com  
  c.dnspod.com
-
-## 生效情况
 
 DNSPOD后台自带腾讯云的DNS生效检测功能，点击后结果如下
 

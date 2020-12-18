@@ -8,17 +8,32 @@
 
 ## 1.安装
 
-1.1 安装MacForge。\(必须。教程：MacForge介绍及安装配置\)
+### 1.1 安装MacForge；
 
-1.2 从MacForge找到AloatX并安装
+教程：[MacForge介绍及安装配置](macforge.md)
 
+### 1.2 在MacForge中安装AloatX；
 
+![](../.gitbook/assets/image%20%2818%29.png)
 
-## AfloatX菜单
+## 2.使用
 
-![](../.gitbook/assets/image%20%2822%29.png)
-
-## 设置透明效果
+在“程序坞/Dock”上右键单击就能看到“AfloatX"，选择对应功能即可。
 
 ![](../.gitbook/assets/image%20%2821%29.png)
+
+## 3.功能模块
+
+```text
+Float Window
+Drop Window
+Invert Colors
+Sticky Window
+Transient Window
+Click-Though Window
+Outline Window 
+Transparency
+```
+
+
 

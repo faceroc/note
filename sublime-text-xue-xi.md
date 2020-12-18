@@ -2,7 +2,7 @@
 description: 记录Sublime Text学习使用的过程
 ---
 
-# Sublime Text学习
+# Sublime Text学习笔记
 
 ## 插件安装方式
 

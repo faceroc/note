@@ -6,7 +6,7 @@
 
 ## 1.安装
 
-### 1.1 安装MacForge；
+### 1.1 安装MacForge
 
 教程：[MacForge介绍及安装配置](macforge.md)
 
@@ -33,7 +33,7 @@ Outline Window
 Transparency
 ```
 
-[AfloatX项目主页](https://github.com/jslegendre/AfloatX)
+## 4.[AfloatX](https://github.com/jslegendre/AfloatX)[官方链接](https://github.com/jslegendre/AfloatX)
 
 
 

@@ -12,13 +12,13 @@
 
 ### 1.2 在MacForge中安装AloatX；
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ## 2.使用
 
 在“程序坞/Dock”上右键单击就能看到“AfloatX"，选择对应功能即可。
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 ## 3.功能模块
 

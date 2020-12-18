@@ -6,7 +6,7 @@
 * [MAC常用软件清单](mac-app-list/README.md)
   * [MacForge介绍及安装配置](mac-app-list/macforge.md)
   * [AfloatX介绍及安装](mac-app-list/afloatx.md)
-* [Win10常用软件清单 2020-12-17](win10-chang-yong-ruan-jian-qing-dan-20201217.md)
+* [Win10常用软件清单](win10-chang-yong-ruan-jian-qing-dan-20201217.md)
 * [软件收集狂的断舍离 2020-12-17](ruan-jian-shou-ji-kuang-de-duan-she-li-20201217.md)
 * [谈谈电脑硬盘加密 2020-12-17](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)
 * [Windows To Go安装Win10  2020-04-20](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)

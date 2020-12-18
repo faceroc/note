@@ -2,7 +2,7 @@
 description: 在MacBook上运行Win10的另一种方案
 ---
 
-# Windows To Go安装Win10  2020-04-20
+# Windows To Go安装Win10
 
 ## 手痒想体验Win10
 
@@ -112,4 +112,6 @@ WTG运行6小时后，硬盘盒极度烫手的情况下的测速，掉速厉害�
 ![](.gitbook/assets/image%20%2817%29.png)
 
 NVMe SSD别的什么都好，就是发热太大了。不确定这种掉速是硬盘发热导致的，还是硬盘盒主控导致的，等有机会换个别的主控硬盘盒再来上图补充。
+
+update:2020-04-20
 

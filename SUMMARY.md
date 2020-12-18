@@ -9,7 +9,7 @@
 * [Win10常用软件清单](win10-chang-yong-ruan-jian-qing-dan-20201217.md)
 * [软件收集狂的断舍离](ruan-jian-shou-ji-kuang-de-duan-she-li-20201217.md)
 * [谈谈电脑硬盘加密](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)
-* [Windows To Go安装Win10  2020-04-20](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)
+* [Windows To Go安装Win10](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)
 * [Gitbook学习笔记](gitbook-xue-xi-bi-ji/README.md)
   * [插入页面链接](gitbook-xue-xi-bi-ji/cha-ru-ye-mian-lian-jie.md)
   * [导入](gitbook-xue-xi-bi-ji/dao-ru-wai-bu-lian-jie.md)

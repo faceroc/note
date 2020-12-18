@@ -3,7 +3,7 @@
 * [FaceRoc's Notes](README.md)
 * [Github搭建Blog学习笔记](github-da-jian-blog-de-ji-lu.md)
 * [Sublime Text学习笔记](sublime-text-xue-xi.md)
-* [MAC常用软件清单 2020-12-13](mac-app-list/README.md)
+* [MAC常用软件清单](mac-app-list/README.md)
   * [MacForge介绍及安装配置](mac-app-list/macforge.md)
   * [AfloatX介绍及安装](mac-app-list/afloatx.md)
 * [Win10常用软件清单 2020-12-17](win10-chang-yong-ruan-jian-qing-dan-20201217.md)

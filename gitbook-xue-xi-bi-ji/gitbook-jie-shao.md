@@ -4,7 +4,7 @@
 
 
 
-Gitbook的三个版本（待补充资料）：
+Gitbook历史上的的三个版本（待补充资料）：
 
 1. 自己部署
 2. gitbooks.io

@@ -74,6 +74,7 @@ Yandex.app
 YubiKey Manager.app
 zFuse.app
 zoom.us.app
+TinkerTool.app
 ```
 
 > 上图清单文字为“Finder"中全选复制，然后粘贴到Sublime Text，自动出来的列表。MAC上这些功能比Win方便多了。简单编辑后，再复制到Gitbook时，丢失了换行符，直接变成了一段文字，根本没法看。后来试过几种方案都不满意，突然想到代码模式不正是一行行下来的吗？试了下果然可行。

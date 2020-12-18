@@ -1,7 +1,7 @@
 # Table of contents
 
 * [FaceRoc's Notes](README.md)
-* [Github搭建Blog的记录 2020-12-16](github-da-jian-blog-de-ji-lu.md)
+* [Github搭建Blog学习笔记](github-da-jian-blog-de-ji-lu.md)
 * [Sublime Text学习笔记](sublime-text-xue-xi.md)
 * [MAC常用软件清单 2020-12-13](mac-app-list/README.md)
   * [MacForge介绍及安装配置](mac-app-list/macforge.md)

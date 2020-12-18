@@ -1,4 +1,4 @@
-# Github搭建Blog的记录 2020-12-16
+# Github搭建Blog学习笔记
 
 目录:
 

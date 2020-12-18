@@ -4,3 +4,7 @@
 
 
 
+* !\[avatar\]\([http://baidu.com/pic/doge.png](https://links.jianshu.com/go?to=http%3A%2F%2Fbaidu.com%2Fpic%2Fdoge.png)\)
+
+
+

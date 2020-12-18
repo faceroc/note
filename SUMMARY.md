@@ -2,7 +2,10 @@
 
 * [FaceRoc's Notes](README.md)
 * [Github搭建Blog的记录 2020-12-16](github-da-jian-blog-de-ji-lu.md)
-* [MAC常用软件清单 2020-12-13](mac-app-list.md)
+* [Sublime Text学习](sublime-text-xue-xi.md)
+* [MAC常用软件清单 2020-12-13](mac-app-list/README.md)
+  * [MacForge](mac-app-list/macforge.md)
+  * [AfloatX](mac-app-list/afloatx.md)
 * [Win10常用软件清单 2020-12-17](win10-chang-yong-ruan-jian-qing-dan-20201217.md)
 * [软件收集狂的断舍离 2020-12-17](ruan-jian-shou-ji-kuang-de-duan-she-li-20201217.md)
 * [谈谈电脑硬盘加密 2020-12-17](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)

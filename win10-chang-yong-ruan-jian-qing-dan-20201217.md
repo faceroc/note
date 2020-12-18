@@ -1,6 +1,4 @@
-# Win10常用软件清单
-
-## update:2020/12/17
+# Windows 10常用软件清单
 
 放这里方便以后备用查询，与WTG安装记录同步更新，一些冷门软件将会逐步补上简单介绍
 
@@ -35,5 +33,5 @@ SpaceSniffer
 [SysinternalsSuite]
 ```
 
-
+update:2020/12/17
 

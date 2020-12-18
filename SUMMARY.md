@@ -11,7 +11,8 @@
 * [谈谈电脑硬盘加密 2020-12-17](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)
 * [Windows To Go安装Win10  2020-04-20](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)
 * [Gitbook学习笔记](gitbook-xue-xi-bi-ji/README.md)
-  * [导入外部链接](gitbook-xue-xi-bi-ji/dao-ru-wai-bu-lian-jie.md)
+  * [插入页面链接](gitbook-xue-xi-bi-ji/cha-ru-ye-mian-lian-jie.md)
+  * [导入](gitbook-xue-xi-bi-ji/dao-ru-wai-bu-lian-jie.md)
 * [Gitbook使用中遇到的问题\(需求\)及解决方案 ---持续更新](gitbook-shi-yong-zhong-yu-dao-de-wen-ti-xu-qiu-ji-jie-jue-fang-an.md)
 
 ## 网络收集存档

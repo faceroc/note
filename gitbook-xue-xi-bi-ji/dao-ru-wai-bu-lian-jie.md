@@ -1,8 +1,17 @@
-# 导入外部链接
+# 导入
 
-## 1.导入外部链接需要手动修改默认文件名\(SLUG\) 2020-12-13
+## Gitbook提供了2种导入方式
 
-通过外部链接导入的文章同步到github后默认为名称“untitled.md"，对应网址为”http://xx.com/untitled”
+1. 直接上传html,zip,md,docx文档
+2. 导入web链接
+
+具体说明参考：[官方文档-Import](https://docs.gitbook.com/features/import#website-url)
+
+## 注意事项
+
+### 1.需手动修改SLUG
+
+通过外部链接导入的文章同步到github后默认为名称“untitled.md"，对应的外部链接为”http://xx.com/untitled”
 
 解决方案：在文章标题右边“..."，进入页面编辑，在SLUG处重置即可。Gitbook会自动将中文部分用拼音分词,SAVE后Merge即可。
 

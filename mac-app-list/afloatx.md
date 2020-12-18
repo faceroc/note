@@ -1,8 +1,6 @@
 # AfloatX介绍及安装
 
-[AfloatX项目主页](https://github.com/jslegendre/AfloatX)
-
-一款MAC下可以置顶app和设置透明度的app
+一款MAC下可以置顶app和设置透明度等的app
 
 安装成功后，在Dock栏的图标上右键单击，即可看到AfloatX选项。
 
@@ -34,6 +32,8 @@ Click-Though Window
 Outline Window 
 Transparency
 ```
+
+[AfloatX项目主页](https://github.com/jslegendre/AfloatX)
 
 
 

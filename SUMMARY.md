@@ -14,7 +14,7 @@
   * [Android常用App](chang-yong-ruan-jian-qing-dan/android-chang-yong-app.md)
 * [Alfred 4学习笔记](alfred-4-xue-xi-bi-ji/README.md)
   * [Snippets](alfred-4-xue-xi-bi-ji/snippets-1/README.md)
-    * [Snippets-快捷插入时间](alfred-4-xue-xi-bi-ji/snippets-1/snippets.md)
+    * [快速插入日期时间](alfred-4-xue-xi-bi-ji/snippets-1/snippets.md)
 * [Sublime Text学习笔记](sublime-text-xue-xi/README.md)
   * [1.Package Control安装、使用及卸载](sublime-text-xue-xi/1.package-control-an-zhuang-shi-yong-ji-xie-zai.md)
   * [2.从Package Control安装新插件](sublime-text-xue-xi/2.-cong-package-control-an-zhuang-xin-cha-jian.md)

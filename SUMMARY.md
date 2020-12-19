@@ -15,7 +15,7 @@
 * [Alfred 4学习笔记](alfred-4-xue-xi-bi-ji/README.md)
   * [Snippets](alfred-4-xue-xi-bi-ji/snippets-1/README.md)
     * [快速插入日期时间](alfred-4-xue-xi-bi-ji/snippets-1/snippets.md)
-* [Sublime Text学习笔记](sublime-text-xue-xi/README.md)
+* [Sublime Text 3学习笔记](sublime-text-xue-xi/README.md)
   * [1.Package Control教程](sublime-text-xue-xi/1.package-control-an-zhuang-shi-yong-ji-xie-zai.md)
   * [汉化](sublime-text-xue-xi/untitled.md)
 * [Gitbook学习笔记](gitbook-xue-xi-bi-ji/README.md)

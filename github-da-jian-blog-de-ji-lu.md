@@ -14,5 +14,7 @@
 1. HExo
 2. Gridea
 
-### 3.
+### 3.喜欢的模版
+
+[https://ihtcboy.com/](https://ihtcboy.com/)，[Hexo](http://hexo.io/) Theme [Yilia](https://github.com/litten/hexo-theme-yilia) by Litten
 

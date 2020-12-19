@@ -24,5 +24,3 @@
   * [插入页面链接](gitbook-xue-xi-bi-ji/cha-ru-ye-mian-lian-jie.md)
   * [Gitbook使用中遇到的问题\(需求\)及解决方案 ---持续更新](gitbook-xue-xi-bi-ji/gitbook-shi-yong-zhong-yu-dao-de-wen-ti-xu-qiu-ji-jie-jue-fang-an.md)
 
-## Gitbook学习笔记 <a id="gitbook-xue-xi-bi-ji-1"></a>
-

@@ -10,21 +10,21 @@ Gitbook自带页面链接\(Page Link\)，虽然第一次使用的时候摸索了
 
 在文章编辑页左边空白处点圆形”+“号，然后选择"Page Link"
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ## 2.输入页面关键字
 
 出现如下图界面时，在文本框内输入页面关键字。
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 ## 3.确认要插入的页面标题
 
 例：我输入“G”后，系统自动列出所有页面，鼠标点击选择即可插入正文。
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ## 4.插入页面链接后的效果
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 

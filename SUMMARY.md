@@ -2,7 +2,8 @@
 
 * [FaceRoc's Notes](README.md)
 * [Github搭建Blog学习笔记](github-da-jian-blog-de-ji-lu.md)
-* [Sublime Text学习笔记](sublime-text-xue-xi.md)
+* [Sublime Text学习笔记](sublime-text-xue-xi/README.md)
+  * [Untitled](sublime-text-xue-xi/untitled.md)
 * [软件收集狂的断舍离](ruan-jian-shou-ji-kuang-de-duan-she-li-20201217.md)
 * [谈谈电脑硬盘加密](tan-tan-dian-nao-ying-pan-jia-mi-20201217.md)
 * [Windows To Go安装Win10](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)

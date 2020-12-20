@@ -34,5 +34,6 @@ FolderSync
 WPS Office
 LastPass
 IFTTT
+HandShaker
 ```
 

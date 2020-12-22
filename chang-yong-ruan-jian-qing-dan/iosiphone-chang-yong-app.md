@@ -1,7 +1,8 @@
 # iOS\(iPhone\)常用App
 
 ```text
-补充
+update:
+Discord
 ```
 
 ![](../.gitbook/assets/image%20%2844%29.png)

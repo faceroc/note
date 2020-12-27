@@ -4,7 +4,7 @@
 
 ```text
 OmniMarkupPreviewer    在用
-ChineseLocalizations    没装
+ChineseLocalizations    没装。中文语言包
 AdvanceNewFile    没装
 Evernote    没装。直接编辑Evernote文章，感觉多此一举，我喜欢直接在Evernote中直接编辑。
 GitGutter    没装。在左边显示新建的行和修改的

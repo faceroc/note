@@ -21,6 +21,7 @@
   * [1.Package Control教程](sublime-text-xue-xi/1.package-control-an-zhuang-shi-yong-ji-xie-zai.md)
   * [热门插件](sublime-text-xue-xi/wo-de-chang-yong-cha-jian.md)
   * [汉化](sublime-text-xue-xi/untitled.md)
+  * [如何编译Python](sublime-text-xue-xi/ru-he-bian-yi-python.md)
 * [Gitbook学习笔记](gitbook-xue-xi-bi-ji/README.md)
   * [Gitbook介绍](gitbook-xue-xi-bi-ji/gitbook-jie-shao.md)
   * [导入](gitbook-xue-xi-bi-ji/dao-ru-wai-bu-lian-jie.md)

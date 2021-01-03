@@ -29,4 +29,7 @@
   * [导入](gitbook-xue-xi-bi-ji/dao-ru-wai-bu-lian-jie.md)
   * [插入页面链接](gitbook-xue-xi-bi-ji/cha-ru-ye-mian-lian-jie.md)
   * [Gitbook使用中遇到的问题\(需求\)及解决方案 ---持续更新](gitbook-xue-xi-bi-ji/gitbook-shi-yong-zhong-yu-dao-de-wen-ti-xu-qiu-ji-jie-jue-fang-an.md)
+* [MAC“其他”占用空间过大导致磁盘空间不足](mac-qi-ta-zhan-yong-kong-jian-guo-da-dao-zhi-ci-pan-kong-jian-bu-zu.md)
+* [Timemachine\(时间机器\)不可用](timemachine-shi-jian-ji-qi-bu-ke-yong.md)
+* [华南金牌主板X79-8D来电启动BIOS设置](hua-nan-jin-pai-zhu-ban-x798d-lai-dian-qi-dong-bios-she-zhi.md)
 

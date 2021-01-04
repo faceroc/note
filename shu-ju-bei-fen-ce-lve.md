@@ -4,6 +4,8 @@ description: 'tag:RT-AC68U,TimeMachineEditor'
 
 # TimeMachine备份策略
 
+系统：macOS Big Sur, Version 11.1
+
 ## 1.预期中的硬盘故障
 
 原来TimeMachine是放在群晖NAS上的，最近因为NAS中的RAID6阵列有一块硬盘异常经常不稳定，新的硬盘又没到，虽然能工作，但怕坏第二块盘，所以不能再让他承担备份的工作了。而且还考虑到RAID6的特性，即使更换了新硬盘也要花很长时间恢复和效验数据。我之前给TimeMachine文件夹分配了1T空间，所以在RAID重建前，可以把TimeMachine换一台机器，NAS上的TimeMachine备份可以删掉，估计能节约不少时间，所以就关闭了NAS上的TimeMachine功能，删掉了备份。

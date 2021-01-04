@@ -32,5 +32,5 @@
 * [MAC“其他”占用空间过大导致磁盘空间不足](mac-qi-ta-zhan-yong-kong-jian-guo-da-dao-zhi-ci-pan-kong-jian-bu-zu.md)
 * [Timemachine\(时间机器\)不可用](timemachine-shi-jian-ji-qi-bu-ke-yong.md)
 * [华南金牌主板X79-8D来电启动BIOS设置](hua-nan-jin-pai-zhu-ban-x798d-lai-dian-qi-dong-bios-she-zhi.md)
-* [数据备份策略](shu-ju-bei-fen-ce-lve.md)
+* [TimeMachine备份策略](shu-ju-bei-fen-ce-lve.md)
 

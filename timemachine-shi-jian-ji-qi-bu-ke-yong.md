@@ -4,7 +4,7 @@
 
 问题:升级到Big Sur后，“`时间机器/TimeMachine`“界面中的“`自动备份/Back Up Automatically`"无法切换“`开/关`”，左下角的“金色锁”及\(`点按锁按钮以进行更改/Click the lock to make changes`\)提示文字消失不见。
 
-Google了一下感觉这个问题比较常见，已经有人解决，遂测试一番完美解决。
+Google了一下感觉这个问题比较常见，是Big Sur的系统级Bug，参考别人的方法尝试了下，完美解决。
 
 解决办法：系统默认语言切换到英文即可。
 

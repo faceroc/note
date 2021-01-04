@@ -12,7 +12,6 @@ Adobe Photoshop CC 2018
 OmniFocus
 超级右键.app
 欧路词典.app
-时间机器.app
 网易有道词典.app
 向日葵远程控制.app
 讯飞语记.app
@@ -87,4 +86,6 @@ Discord.app
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
+
+
 

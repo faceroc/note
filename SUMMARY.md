@@ -9,6 +9,7 @@
 * [Windows To Go安装Win10](windows-to-go-an-zhuang-win10-zai-macbook-pro-shang-shi-yong-20200420.md)
 * [常用软件清单](chang-yong-ruan-jian-qing-dan/README.md)
   * [MAC常用软件](chang-yong-ruan-jian-qing-dan/mac-app-list/README.md)
+    * [TimeMachineEditor定时备份](chang-yong-ruan-jian-qing-dan/mac-app-list/shu-ju-bei-fen-ce-lve.md)
     * [MacForge介绍及安装配置](chang-yong-ruan-jian-qing-dan/mac-app-list/macforge.md)
     * [AfloatX介绍及安装](chang-yong-ruan-jian-qing-dan/mac-app-list/afloatx.md)
   * [Windows 10常用软件](chang-yong-ruan-jian-qing-dan/win10-chang-yong-ruan-jian-qing-dan-20201217.md)
@@ -30,7 +31,6 @@
   * [插入页面链接](gitbook-xue-xi-bi-ji/cha-ru-ye-mian-lian-jie.md)
   * [Gitbook使用中遇到的问题\(需求\)及解决方案 ---持续更新](gitbook-xue-xi-bi-ji/gitbook-shi-yong-zhong-yu-dao-de-wen-ti-xu-qiu-ji-jie-jue-fang-an.md)
 * [MAC“其他”占用空间过大导致磁盘空间不足](mac-qi-ta-zhan-yong-kong-jian-guo-da-dao-zhi-ci-pan-kong-jian-bu-zu.md)
-* [TimeMachine\(时间机器\)不可用](timemachine-shi-jian-ji-qi-bu-ke-yong.md)
+* [TimeMachine\(时间机器\)无法开关](timemachine-shi-jian-ji-qi-bu-ke-yong.md)
 * [华南金牌主板X79-8D来电启动BIOS设置](hua-nan-jin-pai-zhu-ban-x798d-lai-dian-qi-dong-bios-she-zhi.md)
-* [TimeMachine备份策略](shu-ju-bei-fen-ce-lve.md)
 

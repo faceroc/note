@@ -2,7 +2,7 @@
 description: 'tag:Big Sur'
 ---
 
-# TimeMachine\(时间机器\)不可用
+# TimeMachine\(时间机器\)无法开关
 
 系统：macOS Big Sur, Version 11.1
 

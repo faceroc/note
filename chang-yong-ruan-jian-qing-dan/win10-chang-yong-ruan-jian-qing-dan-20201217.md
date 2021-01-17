@@ -33,5 +33,15 @@ SpaceSniffer
 [SysinternalsSuite]
 ```
 
-update:2020/12/17
+update:2021/1/17:增加表格及对应软件官网，付费情况，方便以后下载。
+
+| Soft | HomePage | Licnese |
+| :--- | :--- | :--- |
+| Internet Download Manager | [https://www.internetdownloadmanager.com](https://www.internetdownloadmanager.com/) |  Purchased |
+| Ditto | [https://ditto-cp.sourceforge.io](https://ditto-cp.sourceforge.io/) | Free |
+| Du Meter | [https://www.hageltech.com](https://www.hageltech.com/dumeter/download) | Purchased |
+| FileZilla | [https://filezilla-project.org](https://filezilla-project.org/) | Free |
+| 有道词典 | [http://dict.youdao.com](http://dict.youdao.com/?keyfrom=dict2.top) |  |
+| Listary | [https://www.listary.com](https://www.listary.com/) | Purchased |
+| SysinternalsSuite | [http://www.sysinternals.com](http://www.sysinternals.com/) | Free |
 

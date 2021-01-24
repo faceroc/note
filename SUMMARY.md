@@ -12,6 +12,7 @@
     * [TimeMachineEditor定时备份](chang-yong-ruan-jian-qing-dan/mac-app-list/shu-ju-bei-fen-ce-lve.md)
     * [MacForge介绍及安装配置](chang-yong-ruan-jian-qing-dan/mac-app-list/macforge.md)
     * [AfloatX介绍及安装](chang-yong-ruan-jian-qing-dan/mac-app-list/afloatx.md)
+  * [Office2019激活脚本](chang-yong-ruan-jian-qing-dan/office2019-ji-huo-jiao-ben.md)
   * [Windows 10常用软件](chang-yong-ruan-jian-qing-dan/win10-chang-yong-ruan-jian-qing-dan-20201217.md)
   * [iOS\(iPhone\)常用App](chang-yong-ruan-jian-qing-dan/iosiphone-chang-yong-app.md)
   * [Android常用App](chang-yong-ruan-jian-qing-dan/android-chang-yong-app.md)

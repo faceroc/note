@@ -34,4 +34,7 @@
 * [MAC“其他”占用空间过大导致磁盘空间不足](mac-qi-ta-zhan-yong-kong-jian-guo-da-dao-zhi-ci-pan-kong-jian-bu-zu.md)
 * [TimeMachine\(时间机器\)无法开关](timemachine-shi-jian-ji-qi-bu-ke-yong.md)
 * [华南金牌主板X79-8D来电启动BIOS设置](hua-nan-jin-pai-zhu-ban-x798d-lai-dian-qi-dong-bios-she-zhi.md)
+* [大陆开通海外银行账户方法收集](da-lu-kai-tong-hai-wai-yin-hang-zhang-hu-fang-fa-shou-ji/README.md)
+  * [华美银行Velo在线开户](da-lu-kai-tong-hai-wai-yin-hang-zhang-hu-fang-fa-shou-ji/hua-mei-yin-hang-velo-zai-xian-kai-hu.md)
+* [投资理财](tou-zi-li-cai.md)
 
